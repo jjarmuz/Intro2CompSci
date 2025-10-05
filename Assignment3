@@ -1,11 +1,15 @@
 index.html
 <!DOCTYPE html>
 <html>
+<head>
 <h1>Wikipedia</h1>
+</head>
 <body>
 <p1></p1>
 <p2></p2>
 <p3></p3>
 </body>
+<footer>
 <h6>Copyright 2025 by Jo Jarmuz</h6>
+</footer>
 </html>
