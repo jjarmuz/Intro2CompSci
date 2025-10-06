@@ -1,8 +1,6 @@
 style.css
 
-<!DOCTYPE html>
-
-body{
+.banner{
     width: 800px;
     background-color: black;
     color: white;
