@@ -24,7 +24,7 @@ div.banner{
     width: 800px;
     position: relative;
     top: 0px;
-    height: 550px;
+    height: 580px;
     margin-bottom: 5px;
 }
 
@@ -32,7 +32,7 @@ div.banner{
     width: 120px;
     position: absolute;
     padding: 5px;
-    height: 520px;
+    height: 550px;
     background-color: yellow;
     color: black;
 }
@@ -40,8 +40,8 @@ div.banner{
 .main{
     width: 380px;
     position: absolute;
-    left: 140px;
-    height: 520px;
+    left: 130px;
+    height: 550px;
     padding: 5px;
     color: black;
     background-color: white;
@@ -52,8 +52,8 @@ div.banner{
     width: 270px;
     position: absolute;
     padding: 5px;
-    left: 640px;
-    height: 520px;
+    left: 510px;
+    height: 550px;
     background-color: yellow;
     color: black;
 }
