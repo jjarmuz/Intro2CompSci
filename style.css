@@ -1,7 +1,7 @@
 style.css
 
 .banner{
-    width: 800px;
+    width: 940px;
     background-color: black;
     color: white;
     text-align: center;
@@ -10,7 +10,7 @@ style.css
 }
     
 .footer{
-    width: 800px;
+    width: 940px;
     background-color: black;
     color: white;
     text-align: center;
@@ -20,7 +20,7 @@ style.css
 }
 
 .middle{
-    width: 800px;
+    width: 940px;
     position: relative;
     top: 0px;
     height: 300px;
@@ -44,10 +44,11 @@ style.css
     padding: 10px;
     color: black;
     background-color: white;
+    font-size: 10 px;
 }
 
 .right-sidebar{
-    width: 140px;
+    width: 280px;
     position: absolute;
     padding: 10px;
     left: 640px;
