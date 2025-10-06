@@ -1,16 +1,16 @@
 style.css
 
 .banner{
-    width: 800px;
+    width: 820px;
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 30;
+    font-size: 30px;
     margin-bottom: 10px;
 }
     
 .footer{
-    width: 800px;
+    width: 820px;
     background-color: black;
     color: white;
     text-align: center;
@@ -20,10 +20,10 @@ style.css
 }
 
 .middle{
-    width: 800px;
+    width: 820px;
     position: relative;
     top: 0px;
-    height: 500px;
+    height: 550px;
     margin-bottom: 10px;
 }
 
@@ -31,7 +31,7 @@ style.css
     width: 120px;
     position: absolute;
     padding: 5px;
-    height: 480px;
+    height: 520px;
     background-color: yellow;
     color: black;
 }
@@ -40,7 +40,7 @@ style.css
     width: 410px;
     position: absolute;
     left: 140px;
-    height: 480px;
+    height: 520px;
     padding: 5px;
     color: black;
     background-color: white;
@@ -48,11 +48,11 @@ style.css
 }
 
 .right-sidebar{
-    width: 240px;
+    width: 260px;
     position: absolute;
     padding: 5px;
     left: 640px;
-    height: 480px;
+    height: 520px;
     background-color: yellow;
     color: black;
 }
