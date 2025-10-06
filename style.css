@@ -3,7 +3,10 @@ style.css
 <!DOCTYPE html>
 
 body.banner{
-background-color: black;
-color: yellow;
-text-align: center;
-}
+    width: 800px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30;
+    margin: 10px;
+    }
