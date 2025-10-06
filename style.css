@@ -6,7 +6,8 @@ style.css
     color: white;
     text-align: center;
     font-size: 30px;
-    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
     
 .footer{
