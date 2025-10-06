@@ -2,7 +2,7 @@ style.css
 
 <!DOCTYPE html>
 
-.banner{
+body.banner{
 background-color: black;
 color: yellow;
 text-align: center;
