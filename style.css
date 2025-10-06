@@ -1,25 +1,6 @@
 style.css
 
 <!DOCTYPE html>
-<html>
-<body>
-
-<div class="banner">Wikipedia</div>
-
-<div class="middle">
-<div class="left-sidebar">Jo Jarmuz<br/>5 October 2025<br/>CSPC 20000<br/></div>
-<div class="right-sidebar"><img src="Screenshot 2025-10-05 171947.png"></div>
-
-<div class="main">Wikipedia is a website that contains millions of pages, each focused on a different topic, in a wide variety of languages. Created by Wikimedia Foundation, it is essentially an online encyclopaedia, hence the name 'Wikipedia.' One unique thing about Wikipedia is that anyone can update it at any time, meaning that the information stays pretty up to date, rather than a physical encyclopaedia that needs to be re-released whenever information gets updated. It also links sources to the information found on its pages, allowing readers to both fact-check the information they read and have a starting point for if they wish to do further research on whatever they are reading about.<br/>
-<br>I use Wikipedia because I am a naturally curious person, and I like to learn about new things. Wikipedia is always a great starting point for me when I want to research a new topic, because there is a lot of general information about so many different topics, and if I find something on a Wikipedia page that I want to learn more about, I can see what source(s) were used for the topic to do further research. Another aspect of Wikipedia I really like is that most pages have hyperlinks to other related pages, which I can use to find more information and more specific sources about a subtopic or otherwise related topic. Wikipedia is also useful whenever I want to write a paper, because sources linked in Wikipedia articles are usually pretty good places for me to start finding resources for whatever I'm writing about. Plus, it's really convenient having a list of potential sources in front of me.<br/>
-</div>
-
-</div>
-
-<div class="footer">Copyright 2025 by Jo Jarmuz</div>
-
-</body>
-</html>
 
 body{
 background-color:
