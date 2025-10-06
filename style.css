@@ -1,7 +1,7 @@
 style.css
 
 div.banner{
-    width: 830px;
+    width: 800px;
     background-color: black;
     color: white;
     text-align: center;
@@ -11,7 +11,7 @@ div.banner{
 }
     
 .footer{
-    width: 830px;
+    width: 800px;
     background-color: black;
     color: white;
     text-align: center;
@@ -21,7 +21,7 @@ div.banner{
 }
 
 .middle{
-    width: 830px;
+    width: 800px;
     position: relative;
     top: 0px;
     height: 550px;
@@ -38,7 +38,7 @@ div.banner{
 }
 
 .main{
-    width: 410px;
+    width: 380px;
     position: absolute;
     left: 140px;
     height: 520px;
